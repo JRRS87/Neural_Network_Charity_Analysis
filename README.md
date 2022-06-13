@@ -7,9 +7,30 @@ The purpose of this project is to use deep-learning neural networks with the Ten
 charitable donations.
 We use the following methods for the analysis:
 
-preprocessing the data for the neural network model,
+Preprocessing the data for the neural network model,
 compile, train and evaluate the model,
 optimize the model.
+
+- EIN and NAME—Identification columns
+- APPLICATION_TYPE—Alphabet Soup application type
+- AFFILIATION—Affiliated sector of industry
+- CLASSIFICATION—Government organization classification
+- USE_CASE—Use case for funding
+- ORGANIZATION—Organization type
+- STATUS—Active status
+- INCOME_AMT—Income classification
+- SPECIAL_CONSIDERATIONS—Special consideration for application
+- ASK_AMT—Funding amount requested
+- IS_SUCCESSFUL—Was the money used effectively
+
+### Deliverables:
+
+This new assignment consists of two technical analysis deliverables and a written report.
+
+Deliverable 1: Preprocessing Data for a Neural Network Model
+Deliverable 2: Compile, Train, and Evaluate the Model
+Deliverable 3: Optimize the Model
+Deliverable 4: A Written Report on the Analysis README.md
 
 ## Results
 
